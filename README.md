@@ -1,6 +1,5 @@
 # project-LongCOVID
-This repository is for the paper "Towards Providing Clinical Insights on Long Covid from Twitter Data" at the 6th International Workshop on
-Health Intellogence at the AAAI 2022 Conference.
+# Towards Providing Clinical Insights on Long Covid from Twitter Data 
 
 From the outset of the COVID-19 pandemic social media has
 provided a platform for sharing and discussing experiences in
