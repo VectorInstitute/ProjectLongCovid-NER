@@ -1,0 +1,9 @@
+v2_key:
+  endpoint:  https://api.twitter.com/2/tweets/search/all
+  access_token:
+  access_token_secret:
+  consumer_key:
+  consumer_secret:
+  bearer_token:
+
+
