@@ -15,6 +15,23 @@ For details about our experimental setup, please read our paper titled: Towards 
 
 ### SETUP
 
+### Data creation
+We provide a suite of scripts to download and create twitter and reddit data along with a list of hashtags, etc. The process consists of three steps. 
+
+1. Navigate to `SocialMediaData_creation/`.
+2. There is an example config file used to highlight how to configure your run. Setup
+    your config file with the various include, excludes, hashtags, etc.
+3. Run `SocialMediaData_creation/main.py` and pass the necessary `key_file`, `credential_key`,
+   `config_file`, and `output_file` parameters with `-k`, `-kc`, `-c`, and `-o`
+   respectively, via the command line.
+
+A sample command using the config under ./sample
+```
+python main.py -k sample/api_keys.yaml -ck v2_key -c sample/config_run.ini
+```
+
+
+
 # Citation
 
 Please consider citing our work if you found it useful in your research:
