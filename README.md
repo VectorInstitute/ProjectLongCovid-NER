@@ -1,4 +1,4 @@
-# project-LongCOVID_NER
+# LongCOVID_Insights
 # Towards Providing Clinical Insights on Long Covid from Twitter Data 
 
 From the outset of the COVID-19 pandemic social media has
