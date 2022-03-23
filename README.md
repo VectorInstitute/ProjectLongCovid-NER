@@ -29,7 +29,11 @@ A sample command using the config under ./sample
 ```
 python main.py -k sample/api_keys.yaml -ck v2_key -c sample/config_run.ini
 ```
+### Entity Extraction
 
+### Enitity Normalization
+
+### MetaMapLite 
 
 
 # Citation
