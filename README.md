@@ -38,6 +38,8 @@ python main.py -k sample/api_keys.yaml -ck v2_key -c sample/config_run.ini
 ## Information Extraction Pipeline
 ### Entity Extraction
 
+Our UMLSBERT model which is finetuned on the [n2c2 (2010)](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/) challenge for entity extraction is [available on huggingface](https://huggingface.co/RohanVB/umlsbert_ner).
+
 ### Enitity Normalization
 
 ### MetaMapLite 
