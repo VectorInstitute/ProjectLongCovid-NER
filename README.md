@@ -44,6 +44,8 @@ Our UMLSBERT model which is finetuned on the [n2c2 (2010)](https://portal.dbmi.h
 
 ### MetaMapLite 
 
+MetaMapLite is used for obtaining CUI codes used to label entities, and can be installed [here](https://lhncbc.nlm.nih.gov/ii/tools/MetaMap/run-locally/MetaMapLite.html).
+
 
 # Citation
 
