@@ -10,6 +10,9 @@ The Vector Institute’s Industry Innovation and AI Engineering teams worked wit
 To learn more about this work please read our <a href="https://vectorinstitute.ai/2022/02/11/using-ai-to-help-solve-the-long-covid-puzzle/">blog post</a>. 
 For details about our experimental setup, please read our paper titled: <a href="http://w3phiai2022.w3phi.com/index.html#">Towards Providing Clinical Insights on Long Covid from Twitter Data</a>. 
 
+## Interactive Map
+Here is a Kepler <a href="https://drive.google.com/file/d/1l8syhg5kb4SkGakxHXdrCfx51OAYD3sI/view?usp=sharing"> html </a>. 
+
 
 ## LongCovid Dashboard
 Setup:
