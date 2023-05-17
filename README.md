@@ -33,7 +33,7 @@ python main.py -k sample/api_keys.yaml -ck v2_key -c sample/config_run.ini
 
 Our UMLSBERT model which is finetuned on the [n2c2 (2010)](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/) challenge for entity extraction is [available on huggingface](https://huggingface.co/RohanVB/umlsbert_ner).
 
-### Enitity Normalization
+### Entity Normalization
 The Nomralization steps are shown in the Colan Notebooks [here](https://github.com/VectorInstitute/ProjectLongCovid-NER/tree/main/Notebooks)
 The Unique Concepts for the Entity mapping and nomralization can be found [here](https://docs.google.com/spreadsheets/d/1Y1Y4_uauW3c4Pxhjarz3puKkts2BXQh9K87qkUuaExA/edit#gid=1430806207)
 The list of extracted entities before mapping can be found [here](https://docs.google.com/spreadsheets/d/1p_Ut-GlQghC8v_rhXURGp5lY8l-oXwHhVSBpr8m2S-w/edit#gid=1844583485)
